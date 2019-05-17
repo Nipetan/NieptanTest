@@ -1,0 +1,48 @@
+.gamebox{
+	width: 550px;
+	height: 550px;
+	background-color: red;
+	position: relative;
+	top: 25px;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	margin: auto;
+}
+
+.cx{
+	width: 100px;
+	height: 600px;
+	margin-right: 5px;
+	background-image:url(imgs/0.png);
+	color: black;
+	font-size: larger;
+	text-align:center;
+	float: left;
+}
+
+.tt{
+	float: left;
+	height: 45px;
+	color: floralwhite;
+}
+
+.bj{
+	width: 600px;
+	height: 600px;
+	background-image:url(imgs/2.png);
+	margin-right: 5px;
+	float: left;
+}
+
+/*.box{
+	width: 600px;
+	height: 600px;
+	background-color: red;
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	margin: auto;
+}*/
